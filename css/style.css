@@ -1,5 +1,5 @@
 .body {
-    margin: 10;
+    margin: 0;
     padding: 0;
 
     height: 100vh;
@@ -12,9 +12,15 @@
 .titol {
     text-align: center;
     font-family: Verdana;
-    color:white;
+    color:burlywood;
   }
   .altura {
     height: 50em;
     
 }
+.btn {
+  text-align: center;
+  font-family: Verdana;
+  color:burlywood;
+}
+
